@@ -1,7 +1,7 @@
 numpy
 Pillow
 scikit-image
-opencv-python
+opencv-python-headless
 streamlit
 matplotlib
 streamlit_image_select
