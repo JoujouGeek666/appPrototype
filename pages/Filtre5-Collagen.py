@@ -134,4 +134,4 @@ if st.session_state.step == 4 and 'selected_images_paths' in st.session_state:
             else:
                 st.error("Veuillez sélectionner au moins une statistique.")
 
-st.write(st.session_state)
+
