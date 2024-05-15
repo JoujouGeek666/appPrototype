@@ -9,3 +9,18 @@ npm install -g npm
 node -v
 npm -v
 ``` 
+- Install nativefier by running the below command:
+```
+npm install -g nativefier
+```
+- Go to the directory where you want to install the executable and run this command depending on your machine (Windows/Linux/MacOS):
+```
+nativefier --name 'Codevsi' 'https://codevsiwebapp.streamlit.app/' --platform 'windows'
+```
+```
+nativefier --name 'Codevsi' 'https://codevsiwebapp.streamlit.app/' --platform 'linux'
+```
+```
+nativefier --name 'Codevsi' 'https://codevsiwebapp.streamlit.app/' --platform 'mac'
+```
+This should create the executable in the chosen directory.
