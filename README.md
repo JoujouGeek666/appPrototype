@@ -1,6 +1,6 @@
 # Codevsi
 ## Installing the Web app as executable on the machine :
-- First of all, you need to install **npm** (Node package manager) and by extension **Node.js** on your machine. On Windows, you can install the packages From the Node.js Downloads page. To do so on MacOS/Linux, type this command in the terminal :
+- First of all, you need to install **npm** (Node package manager) and by extension **Node.js** on your machine. On Windows, you can install the packages From the [Node.js Downloads](https://nodejs.org/en/download/) page. To do so on MacOS/Linux, type this command in the terminal :
 ```
 npm install -g npm
 ```
